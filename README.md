@@ -1,4 +1,4 @@
-# dairy-shop
+# dairy-shop(国产奶制品销售系统-前端工程)
 
 This template should help get you started developing with Vue 3 in Vite.
 
